@@ -6,6 +6,9 @@ Aplikasi Android sederhana untuk mengelola data pengguna (User Management) denga
 
 User Management App merupakan aplikasi Android yang dibuat untuk mempermudah pengelolaan data pengguna. Aplikasi ini menyediakan antarmuka sederhana untuk menambahkan, melihat, memperbarui, dan menghapus informasi pengguna berupa nama dan email.
 
+📖 Screenshot/ Tampilan
+https://github.com/aldyrialdy/AppUserRoom/blob/master/Screenshot_20261112_114802.png
+
 ✨ Features
 Add User – Menambahkan data pengguna baru berupa nama dan email.
 Read User – Menampilkan daftar pengguna yang telah tersimpan.
